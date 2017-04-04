@@ -1,17 +1,10 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package Shelter;
 
-/**
- *
- * @author Samsung PC
- */
 public class Shelter {
     String[] namaPenduduk;
     String namaShelter;
     int jumlahPenduduk;
+    
 
     public Shelter() {
     }
